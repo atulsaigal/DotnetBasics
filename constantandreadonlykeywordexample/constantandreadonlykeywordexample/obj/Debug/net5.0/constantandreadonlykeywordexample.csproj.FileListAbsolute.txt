@@ -1,0 +1,16 @@
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\bin\Debug\net5.0\constantandreadonlykeywordexample.exe
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\bin\Debug\net5.0\constantandreadonlykeywordexample.deps.json
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\bin\Debug\net5.0\constantandreadonlykeywordexample.runtimeconfig.json
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\bin\Debug\net5.0\constantandreadonlykeywordexample.runtimeconfig.dev.json
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\bin\Debug\net5.0\constantandreadonlykeywordexample.dll
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\bin\Debug\net5.0\constantandreadonlykeywordexample.pdb
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\obj\Debug\net5.0\constantandreadonlykeywordexample.csproj.AssemblyReference.cache
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\obj\Debug\net5.0\constantandreadonlykeywordexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\obj\Debug\net5.0\constantandreadonlykeywordexample.AssemblyInfoInputs.cache
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\obj\Debug\net5.0\constantandreadonlykeywordexample.AssemblyInfo.cs
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\obj\Debug\net5.0\constantandreadonlykeywordexample.csproj.CoreCompileInputs.cache
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\obj\Debug\net5.0\constantandreadonlykeywordexample.dll
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\obj\Debug\net5.0\refint\constantandreadonlykeywordexample.dll
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\obj\Debug\net5.0\constantandreadonlykeywordexample.pdb
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\obj\Debug\net5.0\constantandreadonlykeywordexample.genruntimeconfig.cache
+C:\Users\Atul.Saigal\source\repos\constantandreadonlykeywordexample\constantandreadonlykeywordexample\obj\Debug\net5.0\ref\constantandreadonlykeywordexample.dll

@@ -1,0 +1,16 @@
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\bin\Debug\net5.0\Abstractdemo.exe
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\bin\Debug\net5.0\Abstractdemo.deps.json
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\bin\Debug\net5.0\Abstractdemo.runtimeconfig.json
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\bin\Debug\net5.0\Abstractdemo.runtimeconfig.dev.json
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\bin\Debug\net5.0\Abstractdemo.dll
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\bin\Debug\net5.0\Abstractdemo.pdb
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\obj\Debug\net5.0\Abstractdemo.csproj.AssemblyReference.cache
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\obj\Debug\net5.0\Abstractdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\obj\Debug\net5.0\Abstractdemo.AssemblyInfoInputs.cache
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\obj\Debug\net5.0\Abstractdemo.AssemblyInfo.cs
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\obj\Debug\net5.0\Abstractdemo.csproj.CoreCompileInputs.cache
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\obj\Debug\net5.0\Abstractdemo.dll
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\obj\Debug\net5.0\refint\Abstractdemo.dll
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\obj\Debug\net5.0\Abstractdemo.pdb
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\obj\Debug\net5.0\Abstractdemo.genruntimeconfig.cache
+C:\Users\Atul.Saigal\source\repos\Abstractdemo\Abstractdemo\obj\Debug\net5.0\ref\Abstractdemo.dll

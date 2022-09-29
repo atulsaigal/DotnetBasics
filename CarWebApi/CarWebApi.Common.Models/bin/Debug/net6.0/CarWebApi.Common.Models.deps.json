@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarWebApi.Common.Models/1.0.0": {
+        "dependencies": {
+          "CarWebApi.Common.Enums": "1.0.0"
+        },
+        "runtime": {
+          "CarWebApi.Common.Models.dll": {}
+        }
+      },
+      "CarWebApi.Common.Enums/1.0.0": {
+        "runtime": {
+          "CarWebApi.Common.Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarWebApi.Common.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarWebApi.Common.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\bin\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.deps.json
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\bin\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\bin\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.pdb
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\bin\Debug\net6.0\CarWebApi.Common.Enums.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\bin\Debug\net6.0\CarWebApi.Common.Models.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\bin\Debug\net6.0\CarWebApi.Common.Models.pdb
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\bin\Debug\net6.0\CarWebApi.Common.Enums.pdb
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\obj\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\obj\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\obj\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\obj\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.AssemblyInfo.cs
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\obj\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\obj\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.csproj.CopyComplete
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\obj\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\obj\Debug\net6.0\refint\CarWebApi.WebApp.4_DataAccess.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\obj\Debug\net6.0\CarWebApi.WebApp.4_DataAccess.pdb
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.WebApp.4_DataAccess\obj\Debug\net6.0\ref\CarWebApi.WebApp.4_DataAccess.dll

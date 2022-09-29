@@ -1,0 +1,12 @@
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\bin\Debug\net6.0\CarWebApi.Common.Enums.deps.json
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\bin\Debug\net6.0\CarWebApi.Common.Enums.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\bin\Debug\net6.0\CarWebApi.Common.Enums.pdb
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\obj\Debug\net6.0\CarWebApi.Common.Enums.csproj.AssemblyReference.cache
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\obj\Debug\net6.0\CarWebApi.Common.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\obj\Debug\net6.0\CarWebApi.Common.Enums.AssemblyInfoInputs.cache
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\obj\Debug\net6.0\CarWebApi.Common.Enums.AssemblyInfo.cs
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\obj\Debug\net6.0\CarWebApi.Common.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\obj\Debug\net6.0\CarWebApi.Common.Enums.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\obj\Debug\net6.0\refint\CarWebApi.Common.Enums.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\obj\Debug\net6.0\CarWebApi.Common.Enums.pdb
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Enums\obj\Debug\net6.0\ref\CarWebApi.Common.Enums.dll

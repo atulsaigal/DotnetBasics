@@ -1,0 +1,16 @@
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\bin\Debug\net5.0\ClassStructure.exe
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\bin\Debug\net5.0\ClassStructure.deps.json
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\bin\Debug\net5.0\ClassStructure.runtimeconfig.json
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\bin\Debug\net5.0\ClassStructure.runtimeconfig.dev.json
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\bin\Debug\net5.0\ClassStructure.dll
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\bin\Debug\net5.0\ClassStructure.pdb
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\obj\Debug\net5.0\ClassStructure.csproj.AssemblyReference.cache
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\obj\Debug\net5.0\ClassStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\obj\Debug\net5.0\ClassStructure.AssemblyInfoInputs.cache
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\obj\Debug\net5.0\ClassStructure.AssemblyInfo.cs
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\obj\Debug\net5.0\ClassStructure.csproj.CoreCompileInputs.cache
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\obj\Debug\net5.0\ClassStructure.dll
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\obj\Debug\net5.0\refint\ClassStructure.dll
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\obj\Debug\net5.0\ClassStructure.pdb
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\obj\Debug\net5.0\ClassStructure.genruntimeconfig.cache
+C:\Users\Atul.Saigal\source\repos\ClassStructure\ClassStructure\obj\Debug\net5.0\ref\ClassStructure.dll

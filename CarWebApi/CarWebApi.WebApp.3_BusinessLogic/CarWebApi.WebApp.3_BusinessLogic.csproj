@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>CarWebApi.WebApp._3_BusinessLogic</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarWebApi.Common.Models\CarWebApi.Common.Models.csproj" />
+    <ProjectReference Include="..\CarWebApi.WebApp.4_DataAccess\CarWebApi.WebApp.4_DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

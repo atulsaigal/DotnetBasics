@@ -1,0 +1,158 @@
+﻿@{
+    ViewBag.Title = "Medicine Records";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<style type="text/css">
+    body {
+        background-image: url("https://img.freepik.com/free-photo/medicine-capsules-global-health-with-geometric-pattern-digital-remix_53876-126742.jpg?t=st=1654076911~exp=1654077511~hmac=997ba1f52c5e42c27ff84eabfd6e4448818c77affe85dd866a4f02f7211f5ade&w=1060");
+        margin: 0;
+        background-size:cover;
+    }
+
+    .fa-sort, .fa-edit, .fa-check-square, .fa-times-circle {
+        color: #5e98f2;
+        cursor: pointer;
+    }
+
+    #ManagePager li:hover {
+        cursor: pointer;
+    }
+
+    #tableid {
+        opacity: 0.9;
+    }
+
+</style>
+
+<script type="text/javascript" src="~/js/MedicineManage.js"></script>
+
+<br />
+<br />
+<br />
+<body>
+    <center><h2><i class="fa fa-users"></i> All Medicine Records</h2></center>
+
+
+
+    <div>
+        <div class="row">
+
+            <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+
+
+                <a class="btn btn-primary" asp-action="MedicineADD">Create New User</a>
+                <hr />
+                <table class="table table-sm table-dark" id="table14">
+                    <thead>
+                        <tr class="text-center" id="tableid">
+                            <th>
+                                Sr. No.:
+                            </th>
+                            <th>
+                                <i id="FirstNameSortingLink"></i> Medicine Name:
+                            </th>
+                            <th>
+                                <i id="LastNameSortingLink"></i> Manufacturer:
+                            </th>
+
+                            <th>
+                                <i id="EmailIdSortingLink"></i> Price:
+                            </th>
+
+                            <th>
+                                Expiry Date
+                            </th>
+
+                            <th>
+                                Stock
+                            </th>
+                            <th>
+                                Edit
+                            </th>
+                            <th>
+                                Delete
+                            </th>
+
+                        </tr>
+                    </thead>
+                    <tbody id="UserTableBody">
+                    </tbody>
+                </table>
+            </div>
+        </div><hr />
+
+    </div>
+
+    <div class="modal fade" id="EditMedicineRecord" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+
+                    <h3 class="modal-title"><i class="fa fa-edit"></i> Update Member Record</h3>
+                    <button type="button" class="close pull-right" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="form-group">
+                                <span>Medicine Name:</span><br />
+                                <div class="input-group">
+                                    <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                                    <input id="TxtMedicineName" type="text" placeholder="Medicine Name.." maxlength="50" class="form-control" />
+                                </div>
+                                <small id="TxtMedicineNameValidate" class="text-danger"></small>
+                            </div>
+
+                            <div class="form-group">
+                                <span>Manufacturer:</span><br />
+                                <div class="input-group">
+                                    <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                                    <input id="TxtManufacturerName" type="text" placeholder="Enter Manufacturer Name.." maxlength="50" class="form-control" />
+                                </div>
+                                <small id="TxtManufacturerNameValidate" class="text-danger"></small>
+                            </div>
+
+                            <div class="form-group">
+                                <span>Price:</span><br />
+                                <div class="input-group">
+                                    <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                                    <input id="TxtPrice" type="text" placeholder="Enter Medicine Price.." maxlength="5" class="form-control" />
+                                </div>
+                                <small id="TxtPriceValidate" class="text-danger"></small>
+                            </div>
+
+                            <div class="form-group">
+                                <span>Expary Date:</span><br />
+                                <div class="input-group">
+                                    <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                                    <input id="TxtDate" type="text" placeholder="Enter Medicine Quantity.." maxlength="5" class="form-control" />
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <span>Stock:</span><br />
+                                <div class="input-group">
+                                    <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                                    <input id="TxtStock" type="text" placeholder="Enter Medicine Quantity.." maxlength="5" class="form-control" />
+                                </div>
+                                <small id="TxtStockValidate" class="text-danger"></small>
+                            </div>
+                            <div class="form-group text-right">
+                                <a id="BtnUpdateRecord" class="btn btn-primary"><i class="fa fa-edit" style="color:white!important"></i> Update</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>

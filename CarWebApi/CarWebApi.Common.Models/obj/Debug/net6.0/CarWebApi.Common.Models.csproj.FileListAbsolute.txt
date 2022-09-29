@@ -1,0 +1,15 @@
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\bin\Debug\net6.0\CarWebApi.Common.Models.deps.json
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\bin\Debug\net6.0\CarWebApi.Common.Models.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\bin\Debug\net6.0\CarWebApi.Common.Models.pdb
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\bin\Debug\net6.0\CarWebApi.Common.Enums.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\bin\Debug\net6.0\CarWebApi.Common.Enums.pdb
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\obj\Debug\net6.0\CarWebApi.Common.Models.csproj.AssemblyReference.cache
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\obj\Debug\net6.0\CarWebApi.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\obj\Debug\net6.0\CarWebApi.Common.Models.AssemblyInfoInputs.cache
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\obj\Debug\net6.0\CarWebApi.Common.Models.AssemblyInfo.cs
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\obj\Debug\net6.0\CarWebApi.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\obj\Debug\net6.0\CarWebApi.Common.Models.csproj.CopyComplete
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\obj\Debug\net6.0\CarWebApi.Common.Models.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\obj\Debug\net6.0\refint\CarWebApi.Common.Models.dll
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\obj\Debug\net6.0\CarWebApi.Common.Models.pdb
+C:\Users\Atul.Saigal\source\repos\CarWebApi\CarWebApi.Common.Models\obj\Debug\net6.0\ref\CarWebApi.Common.Models.dll

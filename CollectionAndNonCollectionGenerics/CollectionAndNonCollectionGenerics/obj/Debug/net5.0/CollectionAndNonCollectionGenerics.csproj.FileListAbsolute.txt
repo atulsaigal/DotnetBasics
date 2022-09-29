@@ -1,0 +1,16 @@
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\bin\Debug\net5.0\CollectionAndNonCollectionGenerics.exe
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\bin\Debug\net5.0\CollectionAndNonCollectionGenerics.deps.json
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\bin\Debug\net5.0\CollectionAndNonCollectionGenerics.runtimeconfig.json
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\bin\Debug\net5.0\CollectionAndNonCollectionGenerics.runtimeconfig.dev.json
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\bin\Debug\net5.0\CollectionAndNonCollectionGenerics.dll
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\bin\Debug\net5.0\CollectionAndNonCollectionGenerics.pdb
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\obj\Debug\net5.0\CollectionAndNonCollectionGenerics.csproj.AssemblyReference.cache
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\obj\Debug\net5.0\CollectionAndNonCollectionGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\obj\Debug\net5.0\CollectionAndNonCollectionGenerics.AssemblyInfoInputs.cache
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\obj\Debug\net5.0\CollectionAndNonCollectionGenerics.AssemblyInfo.cs
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\obj\Debug\net5.0\CollectionAndNonCollectionGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\obj\Debug\net5.0\CollectionAndNonCollectionGenerics.dll
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\obj\Debug\net5.0\refint\CollectionAndNonCollectionGenerics.dll
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\obj\Debug\net5.0\CollectionAndNonCollectionGenerics.pdb
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\obj\Debug\net5.0\CollectionAndNonCollectionGenerics.genruntimeconfig.cache
+C:\Users\Atul.Saigal\source\repos\CollectionAndNonCollectionGenerics\CollectionAndNonCollectionGenerics\obj\Debug\net5.0\ref\CollectionAndNonCollectionGenerics.dll
