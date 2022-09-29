@@ -1,0 +1,15 @@
+﻿#CNAForm {
+    box-shadow: 0px 0px 5px orange;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+
+}
+
+i.fa, span {
+    color: brown;
+}
+
+span {
+    font-weight: bold;
+}

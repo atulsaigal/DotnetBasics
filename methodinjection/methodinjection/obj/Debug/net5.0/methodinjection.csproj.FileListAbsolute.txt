@@ -1,0 +1,16 @@
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\bin\Debug\net5.0\methodinjection.exe
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\bin\Debug\net5.0\methodinjection.deps.json
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\bin\Debug\net5.0\methodinjection.runtimeconfig.json
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\bin\Debug\net5.0\methodinjection.runtimeconfig.dev.json
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\bin\Debug\net5.0\methodinjection.dll
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\bin\Debug\net5.0\methodinjection.pdb
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\obj\Debug\net5.0\methodinjection.csproj.AssemblyReference.cache
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\obj\Debug\net5.0\methodinjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\obj\Debug\net5.0\methodinjection.AssemblyInfoInputs.cache
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\obj\Debug\net5.0\methodinjection.AssemblyInfo.cs
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\obj\Debug\net5.0\methodinjection.csproj.CoreCompileInputs.cache
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\obj\Debug\net5.0\methodinjection.dll
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\obj\Debug\net5.0\refint\methodinjection.dll
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\obj\Debug\net5.0\methodinjection.pdb
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\obj\Debug\net5.0\methodinjection.genruntimeconfig.cache
+C:\Users\Atul.Saigal\source\repos\methodinjection\methodinjection\obj\Debug\net5.0\ref\methodinjection.dll
